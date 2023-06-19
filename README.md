@@ -5,6 +5,4 @@ Research Study : "Sectoral Analysis of Oil Price Fluctuations"
 
 As part of the project, I have access to 3 databases in Excel format containing the price of Brent crude oil since 1970, the quantities produced, and the Kilian index (which is a monthly indicator of actual global economic activity).
 
-Although I was able to present the output of the project in a notebook, the graphics did not display properly because the project was carried out using R.
-
-The entire process is also documented in an R Markdown file. To view the proper output of the project, please go to VAR_model.html and download the raw file to take a closer look.
+The project was carried out using R but I managed to present the project's output in a notebook format. To view the results, please refer to the VAR_model.ipynb file.
