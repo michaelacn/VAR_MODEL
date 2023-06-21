@@ -12,5 +12,7 @@ In addition, you can explore the descriptive statistics available in the "datavi
 
 # Bibliography
 
-Caldara, Dario, Michele Cavallo, and Matteo Iacoviello (2016). Oil Price Elasticities and Oil Price Fluctuations.
+- Caldara, Dario, Michele Cavallo, and Matteo Iacoviello (2016). Oil Price Elasticities and Oil Price Fluctuations.
 International Finance Discussion Papers 1173. Available at : https://www.federalreserve.gov/econresdata/ifdp/2016/files/ifdp1173.pdf
+
+- Lutz Kilian and Xiaoqing Zhou (2020). The Econometrics of Oil Market VAR Models. Available at : https://www.dallasfed.org/-/media/documents/research/papers/2020/wp2006.pdf
