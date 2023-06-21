@@ -8,3 +8,8 @@ As part of the project, I have access to 4 databases in Excel format containing 
 The project was carried out using R but I managed to present the project's output in a notebook format. To view the results, please refer to the "VAR_model.ipynb" file.
 
 In addition, you can explore the descriptive statistics available in the "dataviz.png" file, as well as refer to the "theoretical_framework.png" for an overview of the theoretical framework adopted to guide the implementation of the approach.
+
+## Bibliography
+
+Caldara, Dario, Michele Cavallo, and Matteo Iacoviello (2016). Oil Price Elasticities and Oil Price Fluctuations.
+International Finance Discussion Papers 1173. Available at : https://www.federalreserve.gov/econresdata/ifdp/2016/files/ifdp1173.pdf
